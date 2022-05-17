@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor - Accessibility Audit
 
 This is a project where I had to update a hypothetical client website 
 to include image tags and semantic HTML elements rather than generic
