@@ -14,4 +14,5 @@ divs.
     - Updating HTML elements requires updates to CSS elments as well
     - The "Scout Principle" of leaving code cleaner than you found it
     - Background images incorporated through CSS rather than as <img> elements
-      cannot receive alt tags and should only be decorative.
+      cannot receive alt tags and should only be decorative
+    - Working code can often be compressed to reduce repetition 
