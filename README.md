@@ -1,5 +1,9 @@
 # Code Refactor - Accessibility Audit
 
+https://cbarber1984.github.io/Horisen-Accessibility/ 
+
+
+
 This is a project where I had to update a hypothetical client website 
 to include image tags and semantic HTML elements rather than generic
 divs. 
