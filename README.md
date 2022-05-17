@@ -2,6 +2,8 @@
 
 https://cbarber1984.github.io/Horisen-Accessibility/ 
 
+![screenshot of page](./assets/images/horiseon_screenshot.png)
+
 
 
 This is a project where I had to update a hypothetical client website 
